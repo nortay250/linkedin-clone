@@ -26,9 +26,9 @@ function Sidebar() {
                 <h4 className="hover:underline decoration-purple-700 underline-offset-1 cursor-pointer">
                     {session?.user?.name}
                 </h4>
-                <p className="text-black/60 dark:text-white/75 text-sm">
+                {/*<p className="text-black/60 dark:text-white/75 text-sm">
                     {session?.user.email}
-                </p>
+                </p>*/}
             </div>
              {/* profile stats */}
             <div className="hidden  md:inline text-left dark:text-white/75 text-sm">
