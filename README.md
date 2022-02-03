@@ -1,4 +1,4 @@
-# Linked In Clone
+# LinkedIn Clone
 
 ## Features
 
